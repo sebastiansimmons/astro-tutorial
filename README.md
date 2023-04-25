@@ -1,4 +1,4 @@
-![Netlify Status](https://api.netlify.com/api/v1/badges/581cf292-1a9d-4f99-8d6e-684a915759f7/deploy-status)](https://app.netlify.com/sites/cc-astro-tutorial/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/581cf292-1a9d-4f99-8d6e-684a915759f7/deploy-status)][Live site](https://app.netlify.com/sites/cc-astro-tutorial/deploys)
 # Astro Tutorial Site
 
 
